@@ -1,0 +1,12 @@
+# Local Netlify folder
+.netlify
+
+functions/
+node_modules/
+
+.DS_Store
+
+# Editor configurations
+.vscode
+.idea
+.atom
